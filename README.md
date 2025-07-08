@@ -47,7 +47,8 @@ Modelo baseado na classe `Architecture` fornecida pelo professor:
 
 ### 📈 Gráfico de Perdas
 
-![Gráfico de Perdas](./losses_plot.png)
+![Gráfico de Perdas](https://github.com/user-attachments/assets/7b8152a7-a839-4cef-b7b6-d96142d3d3cb)
+
 
 - Linha azul: perda de treino  
 - Linha vermelha: perda de validação  
@@ -55,7 +56,7 @@ Modelo baseado na classe `Architecture` fornecida pelo professor:
 
 ### 📉 Matriz de Confusão
 
-![Matriz de Confusão](./confusion_matrix.png)
+![Matriz de Confusão]([./confusion_matrix.png](https://github.com/user-attachments/assets/4b5541b7-f767-4a3c-ab3e-30201982d360))
 
 ---
 
