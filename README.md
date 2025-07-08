@@ -56,7 +56,8 @@ Modelo baseado na classe `Architecture` fornecida pelo professor:
 
 ### 📉 Matriz de Confusão
 
-![Matriz de Confusão]([./confusion_matrix.png](https://github.com/user-attachments/assets/4b5541b7-f767-4a3c-ab3e-30201982d360))
+![Matriz de Confusão](https://github.com/user-attachments/assets/fa8137e1-3192-4ce2-ab68-3dbbb3830d28)
+
 
 ---
 
